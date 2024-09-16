@@ -1,1 +1,4 @@
-# HW2Q3_CYang
+# cs501Group
+Team member name:
+
+Jingbo Wang, Chengkai Yang
