@@ -1,5 +1,5 @@
 # cs501Group
-# Chengkai-Jingbo-
+# CalculatorApp
 ## Team Name:
 
 JK
